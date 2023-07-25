@@ -1,6 +1,6 @@
 # QuoteX
 ## Description
-QuoteX is a browser extension crafted to instill moments of inspiration and motivation into users' daily browsing experience. Seamlessly integrated into their favorite web browser, QuoteX serves as an ever-ready wellspring of wisdom, displaying handpicked, thought-provoking quotes along with their esteemed authors with every new tab opened.
+QuoteX is a browser extension crafted to instill moments of inspiration and motivation into users' daily browsing experience. Seamlessly integrated into their favorite web browser, QuoteX serves as an ever-ready wellspring of wisdom, displaying handpicked, thought-provoking quotes along with their esteemed authors.
 
 ## Getting Started
 **To get started, follow the instructions below**
