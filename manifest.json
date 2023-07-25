@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "QoteX",
+    "version": "1.0",
+    "description": "Get a daily dose of inspiration.",
+    "host_permissions": [
+        "https://zenquotes.io/"
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "quoteX_icon.png"
+    }
+}
