@@ -7,7 +7,9 @@ QuoteX is a browser extension crafted to instill moments of inspiration and moti
 To get a local copy up and running follow these simple steps.
 - git clone the repo
   
- `https://github.com/Davidthecode/QuoteX.git`    
+ ```sh
+ https://github.com/Davidthecode/QuoteX.git
+```    
   
 To install in Chrome
 
